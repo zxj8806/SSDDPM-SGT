@@ -1,4 +1,4 @@
-This repository includes the source code of "**Biologically-Inspired Sparse-Spike Diffusion Modeling for Effective Node Classification and Link Prediction on Graphs**"
+This repository includes the source code of "**Biologically-Inspired Sparse-Spike Diffusion Modeling for Effective Representation Learning on Graphs**"
 
 ## 🗻 Install:
 
